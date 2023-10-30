@@ -5,3 +5,11 @@ C:\Users\rille\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.ca
 C:\Users\rille\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
 C:\Users\rille\source\repos\Lab5\Lab5\obj\Debug\Lab5.exe
 C:\Users\rille\source\repos\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\rille\OneDrive\Dokumentumok\GitHub\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\rille\OneDrive\Dokumentumok\GitHub\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\rille\OneDrive\Dokumentumok\GitHub\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\rille\OneDrive\Dokumentumok\GitHub\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\rille\OneDrive\Dokumentumok\GitHub\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\rille\OneDrive\Dokumentumok\GitHub\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\rille\OneDrive\Dokumentumok\GitHub\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\rille\OneDrive\Dokumentumok\GitHub\Lab5\Lab5\obj\Debug\Lab5.pdb

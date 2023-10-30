@@ -56,24 +56,25 @@ namespace Lab5
             */
             #endregion
             #region 4. feladat
-            /*
-            string[] allLines = File.ReadAllLines("NHANES_1999-2018.csv");
+            //string[] allLines = File.ReadAllLines("NHANES_1999-2018.csv");
 
-            string[] SURVEY = new string[allLines.Length-1];
-            int[] RIAGENDR = new int[allLines.Length-1];
-            int[] RIDAGEYR = new int[allLines.Length-1];
-            double[] BMXBMI = new double[allLines.Length-1];
-            double[] LBDGLUSI = new double[allLines.Length-1];
-            for(int i = 0; i < allLines.Length; i++)
-            {
-                string[] a = allLines[i+1].Split(',');
-                SURVEY[i] = a[1];
-                RIAGENDR[i] = int.Parse(a[2]);
-                RIDAGEYR[i] = int.Parse(a[3]);
-                BMXBMI[i] = double.Parse(a[4]);
-                LBDGLUSI[i] = double.Parse(a[5]);
-            }
-            */
+            //string[] SURVEY = new string[allLines.Length-1];
+            //int[] RIAGENDR = new int[allLines.Length-1];
+            //int[] RIDAGEYR = new int[allLines.Length-1];
+            //double[] BMXBMI = new double[allLines.Length-1];
+            //double[] LBDGLUSI = new double[allLines.Length-1];
+
+            //for (int i = 1; i < allLines.Length; i++)
+            //{
+            //    string[] a = allLines[i ].Split(',');
+            //    SURVEY[i] = a[1];
+            //    RIAGENDR[i] = int.Parse(a[2].Trim('.'));
+            //    RIDAGEYR[i] = int.Parse(a[3]);
+            //    BMXBMI[i] = double.Parse(a[4]);
+            //    LBDGLUSI[i] = double.Parse(a[5]);
+            //}
+            string a = "24.0";
+            Console.WriteLine(a.Trim('.',' '));
             #endregion
             Console.ReadLine();
         }
